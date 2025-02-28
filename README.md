@@ -7,7 +7,7 @@ Mastered the fundamentals of Excel with this data analysis using the free Excel 
 - [Datasets](#Datasets)
 
 ## Topics :
-TOPIC 1:
+## TOPIC 1:
 
 Understanding the Excel interface – Navigate Excel efficiently and explore its essential features.
 
@@ -19,7 +19,7 @@ Printing and Page Layouts – Learn to optimize your Excel files for printing an
 
 Passwords and Naming Files – Secure and manage your files effectively.
 
-TOPIC 2:
+## TOPIC 2:
 
 Delimited Files – Import and manage large datasets efficiently.
 
@@ -37,7 +37,7 @@ Creating & Formatting Charts in Excel – Visualize data effectively with differ
 
 Choosing the Right Type of Chart – Select the best visualization method for your data.
 
-TOPIC 3:
+## TOPIC 3:
 
 PIVOT Tables – Summarize and analyze large datasets efficiently.
 
