@@ -1,3 +1,5 @@
+#Upgrad-Introduction to Data Analysis using Excel
+
 Mastered the fundamentals of Excel with this data analysis using the free Excel course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis is designed for beginners and professionals looking to enhance their skills.
 
 Topics Covered:
