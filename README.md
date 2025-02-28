@@ -1,56 +1,41 @@
-# Upgrad-Introduction to Data Analysis using Excel with hosptal charges and bank marketing datasets
+# UpGrad - Introduction to Data Analysis Using Excel  
 
-Mastered the fundamentals of Excel with this data analysis using the free Excel course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis is designed for beginners and professionals looking to enhance their skills.
-## Table of contents
-- [Topics](#Topics)
+Learn the fundamentals of data analysis using Excel with this free course. Gain hands-on experience with essential functions, shortcuts, and formatting techniques to improve your efficiency. This course is designed for beginners and professionals looking to enhance their Excel skills.  
 
-- [Datasets](#Datasets)
+## Table of Contents  
 
-## Topics :
-## TOPIC 1:
+- [Topics Covered](#topics-covered)  
+- [Datasets](#datasets)  
 
-Understanding the Excel interface – Navigate Excel efficiently and explore its essential features.
+## Topics Covered  
 
-Sort and Filter – Organize and analyze data quickly using sorting and filtering tools.
+###  **Topic 1: Excel Basics**  
+- **Understanding the Excel Interface** – Navigate and explore essential features.  
+- **Sorting and Filtering** – Organize and analyze data quickly.  
+- **Report Making & Formatting** – Apply basic and advanced formatting techniques.  
+- **Printing & Page Layouts** – Optimize files for printing and sharing.  
+- **File Security & Management** – Learn password protection and proper file naming.  
 
-Report Making – Basic & Advanced Formatting – Create professional reports with formatting techniques.
+###  **Topic 2: Working with Data**  
+- **Delimited Files** – Import and manage large datasets.  
+- **Shortcuts & Efficiency** – Improve workflow with powerful Excel shortcuts.  
+- **Formulae in Excel** – Master essential formulas for calculations.  
+- **Complex Functions** – Work with advanced functions for deeper analysis.  
+- **Cell Referencing & Text Functions** – Structure and manipulate data efficiently.  
+- **Logical Formulae** – Apply conditions for decision-making.  
+- **Creating & Formatting Charts** – Visualize data effectively.  
+- **Choosing the Right Chart** – Select the best chart for your data.  
 
-Printing and Page Layouts – Learn to optimize your Excel files for printing and sharing.
+###  **Topic 3: Advanced Excel Techniques**  
+- **Pivot Tables** – Summarize and analyze large datasets.  
+- **Slicers** – Enhance interactivity and filter data efficiently.  
+- **VLOOKUP** – Retrieve and compare data across different datasets.  
 
-Passwords and Naming Files – Secure and manage your files effectively.
+## Datasets  
 
-## TOPIC 2:
+The following datasets are used in this course:  
 
-Delimited Files – Import and manage large datasets efficiently.
-
-Discovering Shortcuts – Speed up your workflow with powerful Excel shortcuts.
-
-Formulae in Excel – Master essential formulas for accurate data calculations.
-
-Complex Functions – Work with advanced functions for in-depth data analysis.
-
-Cell Referencing & Text Functions – Enhance data structuring with cell references and text functions.
-
-Logical Formulae – Apply logical conditions to streamline decision-making.
-
-Creating & Formatting Charts in Excel – Visualize data effectively with different chart types.
-
-Choosing the Right Type of Chart – Select the best visualization method for your data.
-
-## TOPIC 3:
-
-PIVOT Tables – Summarize and analyze large datasets efficiently.
-
-Slicers – Enhance interactivity and filter data easily.
-
-VLOOKUP – Retrieve and compare data across different datasets.
-
-## Datasets :
-
-
-<a href="https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/bank-marketing.csv"> Bank Marketing Dataset </a>
-
-
-<a href="https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/hospital-charges.xlsx"> Hospital Charges Dataset </a>
+- **[Bank Marketing Dataset](https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/bank-marketing.csv)**  
+- **[Hospital Charges Dataset](https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/hospital-charges.xlsx)**  
 
 
