@@ -2,7 +2,8 @@
 
 Mastered the fundamentals of Excel with this data analysis using the free Excel course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis is designed for beginners and professionals looking to enhance their skills.
 
-Topics Covered:
+## Topics Covered:
+TOPIC 1:
 
 Understanding the Excel interface – Navigate Excel efficiently and explore its essential features.
 
@@ -13,6 +14,32 @@ Report Making – Basic & Advanced Formatting – Create professional reports wi
 Printing and Page Layouts – Learn to optimize your Excel files for printing and sharing.
 
 Passwords and Naming Files – Secure and manage your files effectively.
+
+TOPIC 2:
+
+Delimited Files – Import and manage large datasets efficiently.
+
+Discovering Shortcuts – Speed up your workflow with powerful Excel shortcuts.
+
+Formulae in Excel – Master essential formulas for accurate data calculations.
+
+Complex Functions – Work with advanced functions for in-depth data analysis.
+
+Cell Referencing & Text Functions – Enhance data structuring with cell references and text functions.
+
+Logical Formulae – Apply logical conditions to streamline decision-making.
+
+Creating & Formatting Charts in Excel – Visualize data effectively with different chart types.
+
+Choosing the Right Type of Chart – Select the best visualization method for your data.
+
+TOPIC 3:
+
+PIVOT Tables – Summarize and analyze large datasets efficiently.
+
+Slicers – Enhance interactivity and filter data easily.
+
+VLOOKUP – Retrieve and compare data across different datasets.
 
 ## Datasets used:
 
