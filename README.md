@@ -1,4 +1,4 @@
-Mastered the fundamentals of Excel with this data analysis using Excel free course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis free training is designed for beginners and professionals looking to enhance their skills.
+Mastered the fundamentals of Excel with this data analysis using the free Excel course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis is designed for beginners and professionals looking to enhance their skills.
 
 Topics Covered:
 
@@ -11,3 +11,7 @@ Report Making – Basic & Advanced Formatting – Create professional reports wi
 Printing and Page Layouts – Learn to optimize your Excel files for printing and sharing.
 
 Passwords and Naming Files – Secure and manage your files effectively.
+
+Datasets used:
+<a href="https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/bank-marketing.csv"> </a>
+
