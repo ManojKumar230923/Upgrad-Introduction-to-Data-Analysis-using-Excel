@@ -1,8 +1,11 @@
 # Upgrad-Introduction to Data Analysis using Excel with hosptal charges and bank marketing datasets
 
 Mastered the fundamentals of Excel with this data analysis using the free Excel course. Learned essential functions, shortcuts, and formatting techniques to improve your efficiency. This Excel for data analysis is designed for beginners and professionals looking to enhance their skills.
+## Table of contents
+-[Topics](#Topics)
+-[Datasets](#Datasets)
 
-## Topics Covered:
+## Topics :
 TOPIC 1:
 
 Understanding the Excel interface – Navigate Excel efficiently and explore its essential features.
@@ -41,7 +44,7 @@ Slicers – Enhance interactivity and filter data easily.
 
 VLOOKUP – Retrieve and compare data across different datasets.
 
-## Datasets used:
+## Datasets :
 
 
 <a href="https://github.com/ManojKumar230923/Upgrad-Introduction-to-Data-Analysis-using-Excel/blob/main/bank-marketing.csv"> Bank Marketing Dataset </a>
