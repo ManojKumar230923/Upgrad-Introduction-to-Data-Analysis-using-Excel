@@ -1,4 +1,4 @@
-```markdown
+
 # UpGrad - Introduction to Data Analysis Using Excel  
 
 Learn the fundamentals of data analysis using Excel with this free course. Gain hands-on experience with essential functions, shortcuts, and formatting techniques to improve your efficiency. This course is designed for beginners and professionals looking to enhance their Excel skills.  
@@ -43,4 +43,4 @@ The following datasets are used in this course:
 ## Technologies Used  
 
 - **Excel**  
-```
+
